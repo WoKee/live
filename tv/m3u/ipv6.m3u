@@ -331,3 +331,14 @@ https://0472.org/hls/cgtnf.m3u8
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海频道",上海教育
+http://20.254.1.9:80/PLTV/88888888/224/3221225926/10000100000000060000000002015042_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7EYMTtbAvDG458LuvapRESIw%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F6000066%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000002015042_0%2CEND
+#EXTINF:-1 tvg-name="上海教育" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="上海频道",上海教育
+http://20.254.1.9:80/PLTV/88888888/224/3221225785/10000100000000060000000001020078_0.smil/index.m3u8?fmt=ts2hls&zoneoffset=480&servicetype=2&icpid=shlt&limitflux=-1&limitdur=-1&tenantId=8601&GuardEncType=2&accountinfo=%7E%7EV2.0%7E3EMy7VSn9WN-bmsMowgXxw%7EO5gHFZXfEEx5kArqrWyLxJImY9Cz0FiG9s_8lX6EBsJruzJR2G4-aEY00UAxuQ6Prwdck4E0flhSWqASa7AbZgdeMh8HiWEFIiD7BDx7HtU%7EExtInfo24S_eFPZ-q3aI4rQpB83xQ%3A20231014195510%2C41022%2C%2C20231014195510%2CUmai%3ACHAN%2F2946530%40BESTV.SMG.SMG%2C41022%2C-1%2C0%2C1%2C%2C%2C7%2C%2C%2C%2C4%2C%2C10000100000000060000000001020078_0%2CEND
